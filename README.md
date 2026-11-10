@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ekendra Ode 👋
 
-<!--
-**ekendraode/ekendraode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a professional digital marketer based in Pune, India. I help businesses grow online with search, ads and content.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SEO**: on-page fixes, technical audits, site structure and keyword-focused content
+- **Paid ads**: Google Ads and Meta Ads campaigns with proper conversion tracking
+- **Content marketing**: blog posts, landing pages and articles that answer real search questions
+- **Analytics and reporting**: GA4 and Search Console setup, dashboards and monthly reports
+
+## How I work
+
+1. Measure first: set up tracking before spending on traffic.
+2. Fix the biggest leak: improve the weakest step in the funnel before adding more traffic.
+3. Report plainly: clear numbers and next steps every month.
+
+## Learn more
+
+Read my full profile: [Ekendra Ode – Professional Digital Marketer](https://dailybreakingupdates.com/ekendra-ode-professional-digital-marketer/)
